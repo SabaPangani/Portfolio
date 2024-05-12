@@ -1,0 +1,13 @@
+.container-body {
+  height: 2500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.spinner {
+  width: 140px;
+  height: 140px;
+  background-color: cornflowerblue;
+  margin-top: 95%;
+  margin: 95% auto 95% auto;
+}
